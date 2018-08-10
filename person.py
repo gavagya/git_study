@@ -37,5 +37,4 @@ if __name__ == '__main__':
 	print(sue)
 	tom = Manager('Tom Jones', 50000)
 	tom.giveRaise(.10)
-	print(tom.lastName())
 	print(tom)
